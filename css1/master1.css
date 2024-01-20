@@ -1,0 +1,101 @@
+.my-p {
+    color: #008AAA;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+  }
+ .desc{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+
+ }
+
+
+ .so-so{
+    border: 2px solid rgb(0, 166, 255);
+    padding-bottom: 5%;
+    padding-left: 8pc;
+    padding-top: 4%;
+ }
+
+ 
+ .button-1 {
+    border: 2px solid #008AAA;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: #008AAA;
+    color: rgb(255, 255, 255);
+    box-shadow: 4px 4px 8px #008AAA;
+margin-top: 5%;
+text-align: center;
+  cursor: pointer;
+  
+  }
+ .button-1:hover {background-color: #008AAA}
+
+ .button-1 {
+    background-color: #007095;
+    transform: translateY(5px);
+  }
+
+  .button-2:hover {background-color: #f4ecec}
+
+  .button-2 {
+     background-color: #ffffff;
+     transform: translateY(5px);
+   }
+
+  
+  .button-2 {
+    border: 2px solid #008AAA;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    cursor: pointer;
+    color: #008AAA;
+    margin-left: 6%;
+   
+    
+
+
+  }
+
+  .hom-e {
+
+font-size: small;
+cursor: pointer;
+
+color: black; 
+
+
+  }
+
+  .my-s{
+    cursor: pointer;
+
+
+color: black; 
+font-size: small;
+  }
+
+  .ko-ko{
+    color: black;
+   font-size: small;
+   
+   cursor: pointer;
+
+  }
+
+  .nav{
+    padding-left: 800px;
+    padding-bottom: 200px;
+  }
+
+  .gogo{
+    padding: top 10%;;
+  }
+
+  
